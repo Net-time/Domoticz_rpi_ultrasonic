@@ -1,5 +1,5 @@
 # Domoticz_rpi_ultrasonic
-Python plugin for a ultrasonic distance meter on Rasppberry Pi,
+Python plugin for a ultrasonic distance meter on Raspberry Pi,
  includes custom icon.
  
 Accuracy will not be great as cpu load may interfere.
